@@ -1,0 +1,57 @@
+// MARK: Messages
+
+"message_instructions" = "Place a light capacitive touch object anywhere on the screen to weigh it";
+
+"message_disabled" = "Force touch is not enabled on this device";
+
+"message_maxed" = "Too much weight!";
+
+"message_multi_touch" = "Multiple touches detected, accuracy may be reduced";
+
+// MARK: Units
+
+"metric_units_singular" = "gram";
+
+"metric_units_plural" = "grams";
+
+"imperial_units_singular" = "ounce";
+
+"imperial_units_plural" = "ounces";
+
+// MARK: Weights
+
+"invalid_weight" = "--";
+
+// MARK: Navigation
+
+"navigation_title" = "Scale";
+
+"navigation_tare" = "Tare";
+
+"navigation_menu" = "Menu";
+
+"navigation_done" = "Done";
+
+// MARK: Menu
+
+"menu_units_toggle" = "Metric Units";
+
+"menu_contact" = "Contact Me";
+
+"menu_webpage" = "Webpage";
+
+"menu_code" = "Source Code";
+
+// MARK: Web View
+
+"loading_label" = "Loading";
+
+// MARK: Alerts
+
+"alert_ok_button" = "Ok";
+
+"generic_error_description" = "An unknown error occurred";
+
+"mail_error_title" = "Couldn't open Mail";
+
+"webpage_load_error_title" = "Couldn't load page";
