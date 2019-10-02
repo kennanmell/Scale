@@ -23,3 +23,6 @@ for more information about me and the app.
 4. If you aren't using the distribution provisioning profile, update the Bundle Identifier to any unused Bundle Identifier.
 5. Next to the run button in the top left corner, click on "Generic iOS Device" and select your phone from the dropdown (or run on a simulator).
 6. Press the run button.
+
+## Device Requirements
+Scale will only work on physical devices devices with 3D touch. This includes the following phones: iPhone 6s, iPhone 6s Plus, iPhone 7, iPhone 7 Plus, iPhone 8, iPhone 8 Plus, iPhone X, iPhone XS, iPhone XS Max.
